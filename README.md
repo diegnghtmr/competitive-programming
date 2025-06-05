@@ -27,7 +27,7 @@ Solutions are grouped by platform (`uHunt` for UVa, `Codeforces`, `LeetCode`) an
 - Consistent high performance on online judges.
 
 ## 🤝 Get Involved
-Feel free to open issues or pull requests if you want to collaborate. Let’s tackle challenging problems together! 🔗
+Feel free to open issues or pull requests if you want to collaborate. Let’s tackle challenging problems together!
 
 `#CompetitiveProgramming` `#Algorithms` `#DataStructures` `#ComputationalThinking` `#LinuxCoding` `#CodeToLearn`
 
